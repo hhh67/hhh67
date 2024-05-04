@@ -9,7 +9,7 @@
 
 😢 Most of my work is stored in private repositories.
 
-Instead, please click the button below to view the page:
+Instead, please click the button below to view my page:
 
 
 <p align="center">
