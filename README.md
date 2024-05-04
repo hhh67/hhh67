@@ -5,7 +5,12 @@
   <img src="https://github-readme-stats-delta-plum-94.vercel.app/api/top-langs/?username=hhh67&theme=tokyonight" height="200">
 </p>
 
-## Here is My Page
+## My works
+
+😢 Most of my work is stored in private repositories.
+
+Instead, please click the button below to view the page:
+
 
 <p align="center">
     <a href="https://hhh67.github.io/app-portal/pages/native/">
