@@ -7,10 +7,6 @@
 
 ## My works
 
-😢 Most of my work is stored in private repositories.
-
-Instead, please click the button below to view my page:
-
 
 <p align="center">
     <a href="https://www.efabvx.com/pages/native/">
