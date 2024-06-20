@@ -10,6 +10,6 @@
 
 <p align="center">
     <a href="https://www.efabvx.com/pages/native/">
-      <img src="https://hhh67.github.io/app-portal/public/link_button.png" width="400">
+      <img src="https://hhh67.github.io/app-portal/public/link_button.png" width="200">
     </a>  
 </p>
